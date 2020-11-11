@@ -5,18 +5,18 @@ Projeto conceito:
 
 ## Configuração
 
-- Usando expess
+Usando expess:
 ```
 yarn add express
 ```
 
-- Rodando nodemon
+Rodando nodemon:
 ```
 yarn add nodemon -D
 yarn nodemon src/index.js
 ```
 
-- Gerando índices
+Gerando índices:
 ```
 yarn add uuidv4
 ```
