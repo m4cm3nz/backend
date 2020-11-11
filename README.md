@@ -1,4 +1,11 @@
+## Backend Node com Express
+Projeto conceito:
+    GET, POST, PUT, DELETE
+    Array de projetos.
+
 ## Configuração
+
+- Usando expess
 `yarn add express`
 
 - Rodando nodemon
