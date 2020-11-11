@@ -6,7 +6,9 @@ Projeto conceito:
 ## Configuração
 
 - Usando expess
-`yarn add express`
+```
+yarn add express
+```
 
 - Rodando nodemon
 ```
@@ -15,4 +17,6 @@ yarn nodemon src/index.js
 ```
 
 - Gerando índices
-`yarn add uuidv4`
+```
+yarn add uuidv4
+```
